@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# this Creates/runs whoami command as a specified user
+sudo -u "$1" whoami
