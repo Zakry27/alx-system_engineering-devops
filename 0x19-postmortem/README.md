@@ -1,6 +1,6 @@
 # 0x19. Postmortem
 
-<img src="https://i.gifer.com/5aLf.mp4">
+<img src="https://tigosoftware.com/sites/default/files/2022-09/IMMKT-153-illustration-for-postmortem-page.png">
 
 ## Author
 
